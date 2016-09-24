@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: fc1342df838a0cd4885557e2ff856494
+timeCreated: 1457625709
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Balls_0
+    21300002: Balls_1
+    21300004: Balls_2
+    21300006: Balls_3
+    21300008: Balls_4
+    21300010: Balls_9
+    21300012: Balls_10
+    21300014: Balls_11
+    21300016: Balls_12
+    21300018: Balls_13
+    21300020: Balls_18
+    21300022: Balls_19
+    21300024: Balls_20
+    21300026: Balls_21
+    21300028: Balls_22
+    21300030: Balls_27
+    21300032: Balls_28
+    21300034: Balls_29
+    21300036: Balls_30
+    21300038: Balls_31
+    21300040: Balls_36
+    21300042: Balls_37
+    21300044: Balls_38
+    21300046: Balls_39
+    21300048: Balls_40
+    21300050: Balls_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Balls_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 475
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38}
+        - {x: -30, y: 30}
+        - {x: -30, y: -16}
+        - {x: -18, y: -38}
+        - {x: 19, y: -38}
+        - {x: 30, y: -24}
+        - {x: 30, y: 32}
+        - {x: 28, y: 38}
+    - name: Balls_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 473
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 40.5}
+        - {x: -36, y: 36.5}
+        - {x: -36, y: -18.5}
+        - {x: -26, y: -40.5}
+        - {x: 23, y: -40.5}
+        - {x: 36, y: -12.5}
+        - {x: 36, y: 35.5}
+        - {x: 27, y: 40.5}
+      - - {x: 33, y: -29.5}
+        - {x: 30, y: -32.5}
+        - {x: 30, y: -36.5}
+        - {x: 34, y: -40.5}
+        - {x: 36, y: -39.5}
+        - {x: 36, y: -30.5}
+        - {x: 35, y: -29.5}
+    - name: Balls_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 469
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 45.5}
+        - {x: -42.5, y: 39.5}
+        - {x: -42.5, y: -37.5}
+        - {x: -40.5, y: -45.5}
+        - {x: -3.5, y: -45.5}
+        - {x: 12.5, y: -43.5}
+        - {x: 42.5, y: -34.5}
+        - {x: 42.5, y: 45.5}
+    - name: Balls_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 478
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 40}
+        - {x: -42, y: -40}
+        - {x: 42, y: -40}
+        - {x: 42, y: 32}
+        - {x: 34, y: 40}
+    - name: Balls_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 476
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 39}
+        - {x: -42, y: 32}
+        - {x: -42, y: -37}
+        - {x: -39, y: -39}
+        - {x: 38, y: -39}
+        - {x: 42, y: -32}
+        - {x: 42, y: 39}
+    - name: Balls_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 363
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38}
+        - {x: -30, y: 30}
+        - {x: -30, y: -16}
+        - {x: -18, y: -38}
+        - {x: 19, y: -38}
+        - {x: 30, y: -24}
+        - {x: 30, y: 32}
+        - {x: 28, y: 38}
+    - name: Balls_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 361
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 40.5}
+        - {x: -27, y: 38.5}
+        - {x: -36, y: 34.5}
+        - {x: -36, y: -18.5}
+        - {x: -25, y: -40.5}
+        - {x: 26, y: -40.5}
+        - {x: 34, y: -36.5}
+        - {x: 36, y: -26.5}
+        - {x: 36, y: 37.5}
+        - {x: 27, y: 40.5}
+      - - {x: 31, y: -30.5}
+        - {x: 29, y: -31.5}
+        - {x: 29, y: -39.5}
+        - {x: 31, y: -40.5}
+        - {x: 36, y: -40.5}
+        - {x: 36, y: -30.5}
+    - name: Balls_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 356
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 45.5}
+        - {x: -42.5, y: 36.5}
+        - {x: -42.5, y: -45.5}
+        - {x: 10.5, y: -45.5}
+        - {x: 42.5, y: -40.5}
+        - {x: 42.5, y: 45.5}
+    - name: Balls_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 366
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 39.5}
+        - {x: -42, y: 29.5}
+        - {x: -42, y: -39.5}
+        - {x: 19, y: -39.5}
+        - {x: 42, y: -29.5}
+        - {x: 42, y: 39.5}
+    - name: Balls_13
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 363
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 39}
+        - {x: -42, y: 32}
+        - {x: -42, y: -37}
+        - {x: -39, y: -39}
+        - {x: 38, y: -39}
+        - {x: 42, y: -32}
+        - {x: 42, y: 39}
+    - name: Balls_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 259
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38}
+        - {x: -30, y: 30}
+        - {x: -30, y: -16}
+        - {x: -18, y: -38}
+        - {x: 19, y: -38}
+        - {x: 30, y: -24}
+        - {x: 30, y: 32}
+        - {x: 28, y: 38}
+    - name: Balls_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 257
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 40.5}
+        - {x: -36, y: 34.5}
+        - {x: -36, y: -12.5}
+        - {x: -14, y: -40.5}
+        - {x: 16, y: -40.5}
+        - {x: 32, y: -34.5}
+        - {x: 36, y: -15.5}
+        - {x: 36, y: 40.5}
+      - - {x: 33, y: -28.5}
+        - {x: 30, y: -31.5}
+        - {x: 30, y: -35.5}
+        - {x: 34, y: -39.5}
+        - {x: 36, y: -38.5}
+        - {x: 36, y: -29.5}
+        - {x: 35, y: -28.5}
+    - name: Balls_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 254
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 45.5}
+        - {x: -42.5, y: 40.5}
+        - {x: -42.5, y: -45.5}
+        - {x: 30.5, y: -45.5}
+        - {x: 38.5, y: -42.5}
+        - {x: 42.5, y: -37.5}
+        - {x: 42.5, y: 45.5}
+    - name: Balls_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 262
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 40.5}
+        - {x: -21, y: 40.5}
+        - {x: -42, y: 34.5}
+        - {x: -42, y: -30.5}
+        - {x: -38, y: -40.5}
+        - {x: 22, y: -40.5}
+        - {x: 42, y: -32.5}
+        - {x: 42, y: 20.5}
+        - {x: 40, y: 32.5}
+    - name: Balls_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 261
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 39}
+        - {x: -42, y: 32}
+        - {x: -42, y: -37}
+        - {x: -39, y: -39}
+        - {x: 38, y: -39}
+        - {x: 42, y: -32}
+        - {x: 42, y: 39}
+    - name: Balls_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 151
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38}
+        - {x: -30, y: 30}
+        - {x: -30, y: -16}
+        - {x: -18, y: -38}
+        - {x: 19, y: -38}
+        - {x: 30, y: -24}
+        - {x: 30, y: 32}
+        - {x: 28, y: 38}
+    - name: Balls_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 149
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 40.5}
+        - {x: -36, y: 37.5}
+        - {x: -36, y: -13.5}
+        - {x: -34, y: -18.5}
+        - {x: -12, y: -40.5}
+        - {x: 15, y: -40.5}
+        - {x: 36, y: -13.5}
+        - {x: 36, y: 28.5}
+        - {x: 25, y: 40.5}
+      - - {x: 32, y: -31.5}
+        - {x: 29, y: -32.5}
+        - {x: 29, y: -38.5}
+        - {x: 30, y: -40.5}
+        - {x: 36, y: -40.5}
+        - {x: 36, y: -31.5}
+    - name: Balls_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 143
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 45.5}
+        - {x: -42.5, y: 43.5}
+        - {x: -42.5, y: -45.5}
+        - {x: 42.5, y: -45.5}
+        - {x: 42.5, y: 45.5}
+    - name: Balls_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 153
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40}
+        - {x: -42, y: 37}
+        - {x: -42, y: -32}
+        - {x: -39, y: -40}
+        - {x: 22, y: -40}
+        - {x: 42, y: -35}
+        - {x: 42, y: 31}
+        - {x: 31, y: 40}
+    - name: Balls_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 150
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 39}
+        - {x: -42, y: 32}
+        - {x: -42, y: -37}
+        - {x: -39, y: -39}
+        - {x: 38, y: -39}
+        - {x: 42, y: -32}
+        - {x: 42, y: 39}
+    - name: Balls_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38}
+        - {x: -30, y: 30}
+        - {x: -30, y: -16}
+        - {x: -18, y: -38}
+        - {x: 19, y: -38}
+        - {x: 30, y: -24}
+        - {x: 30, y: 32}
+        - {x: 28, y: 38}
+    - name: Balls_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 40.5}
+        - {x: -36, y: -23.5}
+        - {x: -24, y: -40.5}
+        - {x: 16, y: -40.5}
+        - {x: 36, y: -31.5}
+        - {x: 36, y: 33.5}
+        - {x: 31, y: 40.5}
+      - - {x: 31, y: -29.5}
+        - {x: 29, y: -30.5}
+        - {x: 29, y: -38.5}
+        - {x: 33, y: -40.5}
+        - {x: 36, y: -40.5}
+        - {x: 36, y: -29.5}
+    - name: Balls_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 28
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 45.5}
+        - {x: -42.5, y: 44.5}
+        - {x: -42.5, y: -45.5}
+        - {x: 41.5, y: -45.5}
+        - {x: 42.5, y: -44.5}
+        - {x: 42.5, y: 45.5}
+    - name: Balls_39
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 37
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 40}
+        - {x: -42, y: 35}
+        - {x: -42, y: -40}
+        - {x: 32, y: -40}
+        - {x: 42, y: -37}
+        - {x: 42, y: 38}
+        - {x: 38, y: 40}
+    - name: Balls_40
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 35
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 39}
+        - {x: -42, y: 32}
+        - {x: -42, y: -37}
+        - {x: -39, y: -39}
+        - {x: 38, y: -39}
+        - {x: 42, y: -32}
+        - {x: 42, y: 39}
+    - name: Balls_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 488
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -9.5}
+        - {x: -29.5, y: -16.5}
+        - {x: -32.5, y: -19.5}
+        - {x: -32.5, y: -34.5}
+        - {x: -15.5, y: -34.5}
+        - {x: -12.5, y: -30.5}
+        - {x: -12.5, y: -9.5}
+      - - {x: 31.5, y: -8.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 15.5, y: -9.5}
+        - {x: 15.5, y: -27.5}
+        - {x: 20.5, y: -29.5}
+        - {x: 37.5, y: -29.5}
+        - {x: 38.5, y: -26.5}
+        - {x: 38.5, y: -16.5}
+      - - {x: -12.5, y: 23.5}
+        - {x: -39.5, y: 23.5}
+        - {x: -41.5, y: 19.5}
+        - {x: -41.5, y: 8.5}
+        - {x: -38.5, y: 5.5}
+        - {x: -24.5, y: 5.5}
+        - {x: -21.5, y: 6.5}
+        - {x: -13.5, y: 13.5}
+        - {x: -12.5, y: 16.5}
+      - - {x: 18.5, y: 13.5}
+        - {x: 34.5, y: 13.5}
+        - {x: 40.5, y: 15.5}
+        - {x: 40.5, y: 27.5}
+        - {x: 39.5, y: 30.5}
+        - {x: 24.5, y: 30.5}
+        - {x: 15.5, y: 28.5}
+        - {x: 15.5, y: 15.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

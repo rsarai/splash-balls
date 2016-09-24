@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 907472b5d67a7ab4f8f6e3311f403498
+timeCreated: 1457628731
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bomb_0
+    21300002: Bomb_1
+    21300004: Bomb_2
+    21300006: Bomb_3
+    21300008: Bomb_4
+    21300010: Bomb_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bomb_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38}
+        - {x: -30, y: 30}
+        - {x: -30, y: -16}
+        - {x: -18, y: -38}
+        - {x: 19, y: -38}
+        - {x: 30, y: -24}
+        - {x: 30, y: 32}
+        - {x: 28, y: 38}
+    - name: Bomb_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 36
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 24.5}
+        - {x: 27, y: 20.5}
+        - {x: 32, y: 25.5}
+        - {x: 34, y: 28.5}
+        - {x: 25, y: 40.5}
+        - {x: -23, y: 40.5}
+        - {x: -36, y: 36.5}
+        - {x: -36, y: -12.5}
+        - {x: -11, y: -40.5}
+        - {x: 12, y: -40.5}
+        - {x: 24, y: -27.5}
+        - {x: 36, y: -11.5}
+        - {x: 36, y: 27.5}
+    - name: Bomb_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 36
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 49}
+        - {x: -40.5, y: 27}
+        - {x: -40.5, y: -39}
+        - {x: -30.5, y: -49}
+        - {x: 19.5, y: -49}
+        - {x: 40.5, y: -39}
+        - {x: 40.5, y: 32}
+        - {x: 15.5, y: 49}
+    - name: Bomb_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: -14.5}
+        - {x: 46.5, y: 37.5}
+        - {x: 25.5, y: 51.5}
+        - {x: 0.5, y: 51.5}
+        - {x: -0.5, y: 48.5}
+        - {x: -28.5, y: 35.5}
+        - {x: -46.5, y: 26.5}
+        - {x: -46.5, y: -50.5}
+        - {x: -43.5, y: -51.5}
+        - {x: 29.5, y: -51.5}
+        - {x: 46.5, y: -31.5}
+        - {x: 46.5, y: -22.5}
+        - {x: 43.5, y: -19.5}
+    - name: Bomb_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 36
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 30}
+        - {x: -46, y: -25}
+        - {x: -32, y: -40}
+        - {x: -18, y: -40}
+        - {x: 23, y: -28}
+        - {x: 40, y: 9}
+        - {x: 40, y: 30}
+    - name: Bomb_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 46
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -17}
+        - {x: -36.5, y: -18}
+        - {x: -36.5, y: -30}
+        - {x: -30.5, y: -32}
+        - {x: -21.5, y: -32}
+        - {x: -20.5, y: -31}
+        - {x: -20.5, y: -19}
+        - {x: -21.5, y: -17}
+      - - {x: 2.5, y: 6}
+        - {x: -5.5, y: 6}
+        - {x: -16.5, y: 4}
+        - {x: -19.5, y: -3}
+        - {x: -19.5, y: -17}
+        - {x: -9.5, y: -25}
+        - {x: -3.5, y: -26}
+        - {x: 2.5, y: -26}
+        - {x: 15.5, y: -18}
+        - {x: 16.5, y: -15}
+        - {x: 16.5, y: -6}
+      - - {x: 25.5, y: -2}
+        - {x: 22.5, y: -3}
+        - {x: 22.5, y: -12}
+        - {x: 27.5, y: -18}
+        - {x: 33.5, y: -18}
+        - {x: 38.5, y: -14}
+        - {x: 38.5, y: -6}
+        - {x: 36.5, y: -2}
+      - - {x: -9.5, y: 28}
+        - {x: -10.5, y: 25}
+        - {x: -10.5, y: 18}
+        - {x: -4.5, y: 13}
+        - {x: 0.5, y: 13}
+        - {x: 5.5, y: 19}
+        - {x: 5.5, y: 26}
+        - {x: 0.5, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
